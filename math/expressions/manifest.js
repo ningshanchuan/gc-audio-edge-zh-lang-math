@@ -1,0 +1,2 @@
+/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
+LabAudioManifest({"lesson": "edge:math/expressions", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "0356d700 04d9be87 072d639f 07a88f90 09bc73b7 121c9755 155fa939 15f5d0b9 22476daa 29b3cb4e 3acbdd9d 3ad4e8ed 414f1cac 42d5bfbd 53afc3ef 58a56a31 59e005b6 5e37856f 6265bb9e 69057e92 6af8af66 717bb628 79cae09e 82ebae4c 8f891a58 94de9120 95167e15 9f29d020 a655c896 aade4c05 b7726472 bfb24bbe c727b22c c8db43d6 d0548c28 d83e9a72 db07a6e8 dcc62ac3 e5656c94 e7c88c31 e9af959c ec3033bf"});

@@ -1,0 +1,2 @@
+/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
+LabAudioManifest({"lesson": "edge:math/fraction-division", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "0032d2d7 04d9be87 075d3797 09b82e4a 0cce6505 2788a0d0 2ddc78d2 2ebe3f85 361e9945 3ae4a55e 3dadd29d 40efe091 51938fa1 67bac6b6 6a13cb4b 6cf47ca3 79f1693e 7a34380a 7a458fcc 850bd400 8894dfeb 8f891a58 9f8933c7 a24dadc4 a300b64a a91f9c6f ae3621da c727b22c ccb0ea7d ccf963e6 cfa9ea8e d0c8d321 d6b46359 dcac6fa3 e364fd27 e5656c94 ed8d8157 ee72449a"});

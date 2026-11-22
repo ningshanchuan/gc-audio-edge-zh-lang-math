@@ -1,0 +1,2 @@
+/* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
+LabAudioManifest({"lesson": "edge:math/angles", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "03b64673 04d9be87 18e571c3 20360309 2b79b9f9 3ac89fa7 3ad7ccf8 3f08323c 3fa68457 43c23b9b 55397610 562af5f3 5dc277aa 653d190e 6769f6c4 709789d2 7215bfcb 75c87329 75cc4ed9 781db423 886d41fb 8c785a88 8e4e7c8e 8f24f0f9 8f2b6edc 8f891a58 9057f1fc 96cc23b4 9827113c 989342d1 a033468e a0d8e05a a141f75e a4dd00ac aa7c8a1a b28b974a b888d600 c727b22c cae1d59b d05d903e d4536dbc ded13075 e5656c94 f04d345a f18508f3"});
