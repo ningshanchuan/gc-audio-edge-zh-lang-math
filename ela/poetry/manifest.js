@@ -1,2 +1,2 @@
 /* stand-in recordings (Microsoft Edge voice); Serena recordings play first */
-LabAudioManifest({"lesson": "edge:ela/poetry", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "52d93c2c b45459a6"});
+LabAudioManifest({"lesson": "edge:ela/poetry", "voice": "edge zh-CN-XiaoxiaoNeural", "zh": "006ba8a6 01e8cc32 01ec0dbd 024d1464 04a91abf 04e22ff1 04f1039b 05585943 07001337 07912e02 07a7b629 07d0e81c 08829373 08a96be6 0985e9ef 0a3b219a 0aa5c0af 0ae7b3c5 0b955a3e 0c66a14b 0c717843 0cece980 0d22f429 0e146756 0e38b12a 0eb1c602 0f5bb8cf 10c9f709 11b828e6 139599fb 52d93c2c b45459a6"});
